@@ -1,0 +1,7 @@
+# data
+pandas
+numpy
+
+# viz
+folium
+matplotlib

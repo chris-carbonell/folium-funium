@@ -7,7 +7,7 @@
 
 # Demo
 
-![demo](docs/demo.mov)
+![demo](docs/demo.gif)
 
 # Quickstart
 

@@ -5,6 +5,10 @@
 * visualize geospatial data using Folium
 * play with Haversine formula (great-circle distance)
 
+# Demo
+
+!(demo)[docs/demo.mov]
+
 # Quickstart
 
 Just launch the Jupyter notebook to interact with the map and the ports data.
